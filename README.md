@@ -5,8 +5,10 @@
 
 
                                                              Qual a nossa ideia?
-💬 A principal tese que levamos em conta foi a de acessibilidade em prioridade, para que assim caso qualquer possível cliente que deseje implementar nosso aplicativo consigo de maneira mais fácil e barata de colocar em prática, assim decidimos que nosso aplicativo seria utilizado por dispositivos móveis por conta de sua abrangência e facilidade de uso
-                                                              Como seria o funcionamento?
+💬 A principal tese que levamos em conta foi a de acessibilidade em prioridade, para que assim caso qualquer possível cliente que deseje implementar nosso aplicativo consigo de maneira mais fácil e barata de colocar em prática, assim decidimos que nosso aplicativo seria utilizado por dispositivos móveis por conta de sua abrangência e facilidade de uso.
+
+Como seria o funcionamento?
+
 - O funcionamento do aplicativo funcionaria baseado em três usuários base: 
 
 ⚡ Os guardiões do aluno
